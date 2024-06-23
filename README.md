@@ -2,6 +2,7 @@
 A2Z Mart, a rapidly expanding FMCG manufacturer based in Kanpur, Uttar Pradesh, currently operates in Gujarat, Uttar Pradesh, and Haryana. Within these states, they are active in 15 cities. For this project, we will focus on their operations in three towns in Gujarat: Surat, Ahmedabad, and Vadodara.
 
 Power BI Services Link: https://shorturl.at/nNNUC
+
 LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7210567195217604609/
 
 # Problem Statement
