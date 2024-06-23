@@ -1,7 +1,8 @@
 # Supply Chain Analysis Power BI
 A2Z Mart, a rapidly expanding FMCG manufacturer based in Kanpur, Uttar Pradesh, currently operates in Gujarat, Uttar Pradesh, and Haryana. Within these states, they are active in 15 cities. For this project, we will focus on their operations in three towns in Gujarat: Surat, Ahmedabad, and Vadodara.
 
-Power BI Services Link for the full report: https://app.powerbi.com/view?r=eyJrIjoiODI3MTllZDYtYjA1Mi00MWNhLTgxMjItNmJjYWNhODQzYzAxIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9&pageName=ReportSection
+Power BI Services Link: https://shorturl.at/nNNUC
+LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7210567195217604609/
 
 # Problem Statement
 A2Z Mart is experiencing issues in Gujarat, where several key customers did not renew their annual contracts due to service-related problems. It is speculated that some essential products were either not delivered on time or in full over an extended period, leading to poor customer service. Management aims to resolve this issue before expanding to other cities in Gujarat. They have tasked their supply chain analytics team with tracking the 'On-Time' and 'In-Full' delivery service levels for all customers daily, enabling swift responses to any problems.
